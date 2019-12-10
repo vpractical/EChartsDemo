@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EChartsActivity">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btnHistogram"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:onClick="histogramInit"
+            android:text="柱状图"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <WebView
+            android:id="@+id/wvHistogram"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintDimensionRatio="h,1:3"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/btnHistogram" />
+
+        <Button
+            android:id="@+id/btnLine"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:onClick="lineInit"
+            android:text="折线图"
+            app:layout_constraintTop_toBottomOf="@id/wvHistogram"
+            />
+
+        <WebView
+            android:id="@+id/wvLine"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintDimensionRatio="h,1:1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/btnLine" />
+        <Button
+            android:id="@+id/btnPie"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:onClick="pieInit"
+            android:text="饼状图"
+            app:layout_constraintTop_toBottomOf="@id/wvLine"
+            />
+
+        <WebView
+            android:id="@+id/wvPie"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintDimensionRatio="h,1:1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/btnPie" />
+        <Button
+            android:id="@+id/btnRadar"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:onClick="pieRadar"
+            android:text="雷达图"
+            app:layout_constraintTop_toBottomOf="@id/wvPie"
+            />
+
+        <WebView
+            android:id="@+id/wvRadar"
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            app:layout_constraintDimensionRatio="h,1:1"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/btnRadar" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.core.widget.NestedScrollView>

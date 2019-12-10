@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f33d5000-c609-4cc1-a78d-295d10084897" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/y/customview/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/y/customview/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/notch/BaseActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/notch/BaseActivity.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6P_API_28" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/y/customview/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="25">
+              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <folding>
+                <element signature="e#1165#1166#0" expanded="true" />
+                <element signature="e#1216#1217#0" expanded="true" />
+                <element signature="e#1269#1270#0" expanded="true" />
+                <element signature="e#1310#1311#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile_vertical" />
+        <option value="valueResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>downY</find>
+      <find>burst</find>
+      <find>mHolderCenter</find>
+      <find>mBubbleText</find>
+      <find>mVanishBitmaps</find>
+      <find>mBubbleHolderMinRadius</find>
+      <find>500</find>
+      <find>log</find>
+      <find>newBase</find>
+      <find>attachBaseContext</find>
+      <find>mBubbleTextSize</find>
+      <find>mDist =</find>
+      <find>isAlive</find>
+      <find>superDispatchTouchEvent</find>
+      <find>dispatchtoucheve</find>
+      <find>x</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>lastY</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/MainAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view2/GuaGuaCardView_SRCOUT.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view2/MyView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/ClockView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/ScratchCardView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/LayerView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/GuaGuaCardView_SRCOUT.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/RevealDrawable.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/GalleryHorizontalScrollView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/RevealDrawable2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/DragDelView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/values/attrs.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/view_dragdelview.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/DragBubbleView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/PathMeasureView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/L.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/SecActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/LoadingView1.java" />
+        <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/LoadingView2.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/WaveView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/WaveHeaderView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/view/ScratchcardView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notch/notch/SystemBarTintManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notch/NotchActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notch/notch/NotchUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notch/notch/NotchThirdUtil.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/notch/BaseActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/y/customview/MainActivity.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
